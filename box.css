@@ -1,0 +1,20 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}
+
+h1 {
+    background-color: brown;
+}
+
+body {
+    background-color: #ffeeff;
+}
+
+#div2 {
+    box-sizing: border-box;
+    border-width: 10px;
+    border-color: black;
+    border-style: dashed;
+}
